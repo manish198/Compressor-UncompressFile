@@ -1,0 +1,9 @@
+#Ignore all files and folders
+*
+
+#Track these files and folders
+!.gitignore
+!README.md
+!src/
+!frequency.txt
+!*.clj
